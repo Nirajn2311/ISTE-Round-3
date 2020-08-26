@@ -7,6 +7,14 @@ body {
   padding-top: 6rem;
 }
 
+.carousel-item {
+  text-align: center;
+}
+
+.carousel-inner img {
+  display: inline !important;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
