@@ -30,6 +30,16 @@ html {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
+.card .image {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 100%;
+}
+
+.image img {
+  position: absolute;
+}
+
 .card ul {
   padding-left: 15px;
 }
