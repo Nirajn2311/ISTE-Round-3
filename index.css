@@ -16,8 +16,8 @@ html {
 
 .carousel-inner img {
   display: inline !important;
-  height: 100vh;
-  object-fit: contain;
+  height: 75vh;
+  object-fit: cover;
 }
 
 #doctors {
