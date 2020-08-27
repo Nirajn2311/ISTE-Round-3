@@ -16,7 +16,7 @@ html {
 
 .carousel-inner img {
   display: inline !important;
-  height: 500px;
+  height: 100vh;
   object-fit: contain;
 }
 
