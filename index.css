@@ -2,6 +2,10 @@ html {
   position: relative;
 }
 
+#navbar a {
+  font-size: 18px;
+}
+
 #image-slider {
   margin-top: 6rem;
 }
@@ -14,8 +18,8 @@ html {
   display: inline !important;
 }
 
-#cards {
-  margin-top: 2rem;
+#doctors {
+  margin-top: 5rem;
   background-color: gray;
 }
 
